@@ -181,9 +181,5 @@ menu "Bluethroat Paragliding Variometer Configurations"
         endmenu
 
     endmenu
-    menu "test"
-        config SRCARCH
-	    string "environment"
-            option env="PATH"
-    endmenu
+
 endmenu
